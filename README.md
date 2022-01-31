@@ -1,10 +1,18 @@
 # About Us
 
+<!-- Insert About here -->
+
 ## Vision
+
+<!-- Insert Vision here -->
 
 ## Mission
 
+<!-- Insert Mission here -->
+
 ## Background
+
+<!-- Insert Background here -->
 
 
 <!-- Dont write anything below this -->
