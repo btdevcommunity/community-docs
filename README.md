@@ -1,2 +1,10 @@
-# about-us
-A description about a community
+# About Us
+
+# Vision
+
+# Mission
+
+# Background
+
+
+*Thank you*
