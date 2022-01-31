@@ -1,10 +1,10 @@
 # About Us
 
-# Vision
+## Vision
 
-# Mission
+## Mission
 
-# Background
+## Background
 
 
 *Thank you*
