@@ -48,31 +48,34 @@
 
 #### Problem statement
 
-- Due to Lack of platform for bhutanese ICT sector to share knowledge and work on projects for the community 
+- Lack of platform for bhutanese ICT sector to share knowledge and work on projects for the community
 
-- There is a huge gap between the community requirement and the skill set that our young generation posess 
+- Huge gap between the community requirement and the skill set that our young generation posess
 
 - Ease of many simpler tasks are still being manually performed when a smart systematic application could save millions
 
-- Due to slow growth of startup companies being stepping stone for the well established company
+<!-- This sentence needs some restructuring -->
 
-- Entrepreneurship being a tough journey in our country due to existing numerous unfriendly policies 
+- Slow growth of startup companies being stepping stone for the well established company
 
-- Limited market in our country and unable to step out to the international market
+- Entrepreneurship being a difficult journey in the country due to the existence of numerous policies
+
+- Limited market in the country and unable to step out to the international market
 
 
 #### How can the community solve it
 
+<!-- This sentence needs some restructuring -->
 
-- With the community involving ICT from various skill sets the community will gradually grow to be a knowledge pool assisting all members and others to mitigate current ICT issues or hinderances
+- With the community involving ICT from various skill sets, the community will gradually grow to be a knowledge pool assisting all members and others to mitigate current ICT issues or hinderances
 
 - Grooming the young minds to have adequate skill sets to work in teams and to fit the requirements of the job market
 
-- Having a proper mentor guide, enthusiastic learners will be able to improve their particular skillsets
+- Having a proper mentor, enthusiastic learners will be able to improve their particular skillsets
 
-- As a community we hope to give confidence to the policy makers and other stake holders to appreciate and support the ICT communtity and young entrepreneurs.
+- As a community, we hope to give confidence to the policy makers and other stake holders to appreciate and support the ICT communtity and young entrepreneurs.
 
-- This community aims to break the barrier of not being able to sell Bhutanese skill sets beyond our country and appreciated by all the stake holders in our country
+- This community aims to break the barrier of not being able to sell Bhutanese skill sets beyond our country and appreciated by all the stake holders in the country
 
 
 #### Why open-source? 
