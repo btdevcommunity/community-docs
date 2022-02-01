@@ -1,3 +1,9 @@
+<p align="center">
+ <a target="_blank" href="https://www.devbt.org">
+  <img src="https://devbt.org/assets/images/socials-cover.png" alt="Bhutan Developer Community Logo" />
+ </a>
+</p>
+
 # <a href="https://www.devbt.org" target="_blank"> <p align="center">Bhutan Developer Community</p> </a>
 
 <p align="center">
