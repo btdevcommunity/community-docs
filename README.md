@@ -1,18 +1,89 @@
-# About Us
+# <a href="https://www.devbt.org" target="_blank"> <p align="center">Bhutan Developer Community</p> </a>
 
-<!-- Insert About here -->
+<p align="center">
+ <a target="_blank" href="https://www.devbt.org">
+  <img src="https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/logo.png" alt="Bhutan Developer Community Logo" />
+ </a>
+</p>
+<a target="_blank" href="https://www.devbt.org">
+ <p align="center">Bhutan Developer Community</p>
+ 
+ <br/>
+ 
+<!--  Don't write above this -->
 
 ## Vision
 
-<!-- Insert Vision here -->
+
+<!-- Rough / Brainstroming -->
+
+- To create environment for all community members where our opinions and ideas are valued and appreciated
+
+- To create a platform where members can work on open source projects
+
+- To geniunely encourage our young coders / IT Personnels in our nation to take the digital platform
+
+- To provide a platform for IT aspirants to learn, work and grow
+
+- To work our way towards digital drukyul
+
+- To establish, initiate, strengthen the culture of co-existence among youth and nation builders
+
+- To improve engagement among community members
+
+
 
 ## Mission
 
-<!-- Insert Mission here -->
+<!-- Rough / Brainstroming -->
+
+- To create a platform for people to work together
+
+- Build projects to address and solve the current problems in the society through ICT and community eco-system
+
+- To groom and nuture learners with proper skill set to cater the needs of digital eco-system
+
+
+
 
 ## Background
 
-<!-- Insert Background here -->
+#### Problem statement
+
+- Due to Lack of platform for bhutanese ICT sector to share knowledge and work on projects for the community 
+
+- There is a huge gap between the community requirement and the skill set that our young generation posess 
+
+- Ease of many simpler tasks are still being manually performed when a smart systematic application could save millions
+
+- Due to slow growth of startup companies being stepping stone for the well established company
+
+- Entrepreneurship being a tough journey in our country due to existing numerous unfriendly policies 
+
+- Limited market in our country and unable to step out to the international market
+
+
+#### How can the community solve it
+
+
+- With the community involving ICT from various skill sets the community will gradually grow to be a knowledge pool assisting all members and others to mitigate current ICT issues or hinderances
+
+- Grooming the young minds to have adequate skill sets to work in teams and to fit the requirements of the job market
+
+- Having a proper mentor guide, enthusiastic learners will be able to improve their particular skillsets
+
+- As a community we hope to give confidence to the policy makers and other stake holders to appreciate and support the ICT communtity and young entrepreneurs.
+
+- This community aims to break the barrier of not being able to sell Bhutanese skill sets beyond our country and appreciated by all the stake holders in our country
+
+
+#### Why open-source? 
+
+- We aim to keep our community as open-source so that anyone can learn and contribute to the developemnt of the projects
+
+- To decentralize the developement so that addition of new features and tackling errors can be contributed by anyone rather than reporting it to a particular developer.
+
+- Learn various team work skills like communication, usage of version control systems like Git, collaborate on GitHub, project management, documentation, leadership, 
 
 
 <!-- Dont write anything below this -->
@@ -45,12 +116,3 @@
  </a>
 </p>
 
-<br/>
-<p align="center">
- <a target="_blank" href="https://www.devbt.org">
-  <img src="https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/logo.png" alt="Bhutan Developer Community Logo" />
- </a>
-</p>
-<a target="_blank" href="https://www.devbt.org">
- <p align="center">Bhutan Developer Community</p>
-</a>
