@@ -5,14 +5,6 @@
 </p>
 
 # <a href="https://www.devbt.org" target="_blank"> <p align="center">Bhutan Developer Community</p> </a>
-
-<p align="center">
- <a target="_blank" href="https://www.devbt.org">
-  <img src="https://github.com/BTDeveloperCommunity/devbt.org/blob/main/assets/img/logo.png" alt="Bhutan Developer Community Logo" />
- </a>
-</p>
-<a target="_blank" href="https://www.devbt.org">
- <p align="center">Bhutan Developer Community</p>
  
  <br/>
  
