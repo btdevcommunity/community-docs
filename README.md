@@ -10,6 +10,8 @@
  
 <!--  Don't write above this -->
 
+# Draft
+
 ## Vision
 
 
@@ -88,7 +90,9 @@
 
 
 <!-- Improvised Content-->
-## Improved Content
+
+
+# Formatted Content
 
 ## Vision
 
