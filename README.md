@@ -87,6 +87,46 @@
 - Learn various team work skills like communication, usage of version control systems like Git, collaborate on GitHub, project management, documentation, and leadership. 
 
 
+<!-- Improvised Content-->
+## Improved Content
+
+## Vision
+
+- To create an open environment for all the community members where opinions and ideas are valued and appreciated
+
+- To create a platform where members can work on open-source projects.
+
+- To genuinely encourage young coders / IT Personnel in the nation to learn, work, grow and take the digital platforms forward.
+
+- To establish, initiate, strengthen the culture of co-existence among youth and nation builders.
+
+- To improve engagement among community members.
+
+- Build projects to address current problems in creating stable and adaptable solutions. 
+
+
+
+## Mission
+
+An open platform towards building the nation. 
+
+
+## Background
+
+
+Bhutan developer community as it sounds is a community, powered by Bhutanese who are tech enthusiasts, programmers, coders, designers, and citizens interested in technology and growth. The community is the first of its kind in the country.  Open Source is a source code that is made freely available freely for possible modifications and redistribution. Bhutan as of January 2022, does not have a single open source project. Bhutan Developer community looks into the community as a huge scope for nurturing one another and contribute to global community of open source projects.
+
+Bhutan currently has lacks a platform for Bhutanese in ICT sector to share knowledge and which doesnt enable the doers to come together to worn on projects for the community. With there here has been a huge gap between the community requirement and skill set that most of the bhutanese psess. Ease of many simpler tasks are still being manually performed when a smart systematic application could save save time and money. Entrepreneurship has always been difficult in the country despite number of entrepreneurs coming in. With population comes market and for bhutanese entrepreneur to expand to international market seem almost impossible.
+
+The Bhutan Developer community involving members from various ICT sectors in the country with different skill set, the community will gradually grow to be a knowledge pool assisting members of the community and to others in mitigating current issues. Young minds will be automatically groomed in having improved or new skill set to work in team and would would get easier for them to feed the requirements of the job market. The community with members in different level of skills learning and nurturing one another becomes easier. The community aims in breaking the barrier of not being able to sell Bhutanese skill sets beyond our country and appreciated by all the stake holders in the country.
+
+
+#### Why open-source?
+
+The community will remain as open-source welcoming any bhutanese willing to learn and grow together and to contribute in development of open-source projects. Open source projects are open to anybody who wants to contribute and improve the project, the community members will be able to contribute despite where they are based in adding new features and tackling errors unlike traditional form of project development where the team is blamed/reported if there are any issue with the system. Open soure projects makes communication easier, usage of version control system such as Git, project management, documentations and leadership.
+
+
+
 <!-- Dont write anything below this -->
 
 #
