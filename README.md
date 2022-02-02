@@ -84,7 +84,7 @@
 
 - To decentralize the developement so that addition of new features and tackling errors can be contributed by anyone rather than reporting it to a particular developer.
 
-- Learn various team work skills like communication, usage of version control systems like Git, collaborate on GitHub, project management, documentation, leadership, 
+- Learn various team work skills like communication, usage of version control systems like Git, collaborate on GitHub, project management, documentation, and leadership. 
 
 
 <!-- Dont write anything below this -->
