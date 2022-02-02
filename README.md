@@ -94,6 +94,13 @@
 
 # Formatted Content
 
+
+## Mission
+
+An open platform towards building the nation. 
+
+
+
 ## Vision
 
 - To create an open environment for all the community members where opinions and ideas are valued and appreciated
@@ -107,12 +114,6 @@
 - To improve engagement among community members.
 
 - Build projects to address current problems in creating stable and adaptable solutions. 
-
-
-
-## Mission
-
-An open platform towards building the nation. 
 
 
 ## Background
