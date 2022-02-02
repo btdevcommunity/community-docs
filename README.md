@@ -10,7 +10,11 @@
  
 <!--  Don't write above this -->
 
+ <br/>
+
 # Draft
+
+ <br/>
 
 ## Vision
 
@@ -88,13 +92,15 @@
 
 - Learn various team work skills like communication, usage of version control systems like Git, collaborate on GitHub, project management, documentation, and leadership. 
 
-
+ <br/>
+ 
 <!-- Improvised Content-->
 
 
 # Formatted Content
 
-
+ <br/>
+ 
 ## Mission
 
 An open platform towards building the nation. 
