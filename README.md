@@ -9,16 +9,6 @@
  <br/>
  
 <!--  Don't write above this -->
-
- <br/>
-
-# Draft
-
- <br/>
-
-# Formatted Content
-
- <br/>
  
 ## Mission
 
