@@ -14,7 +14,7 @@
 
 An open platform towards building the nation. 
 
-
+<br/>
 
 ## Vision
 
@@ -30,6 +30,7 @@ An open platform towards building the nation.
 
 - Build projects to address current problems in creating stable and adaptable solutions. 
 
+<br/>
 
 ## Background
 
