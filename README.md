@@ -1,6 +1,6 @@
 <p align="center">
  <a target="_blank" href="https://www.devbt.org">
-  <img src="https://devbt.org/assets/images/socials-cover.png" alt="Bhutan Developer Community Logo" />
+  <img src="https://devbt.org/assets/email/socials-cover.png" alt="Bhutan Developer Community Logo" />
  </a>
 </p>
 
